@@ -1,3 +1,3 @@
 # Timer-Clock-Timer
 
-Timer created in c by Arthur Diniz
+Timer created in C by Arthur Diniz
